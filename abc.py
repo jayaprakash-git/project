@@ -1,1 +1,2 @@
-print('hai jp')
+print('hai')
+print('good morning')
